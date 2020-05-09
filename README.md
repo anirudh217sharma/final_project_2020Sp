@@ -34,4 +34,6 @@ Note : As a lot of interactive plots have been used in the notebook , github onl
 
 https://nbviewer.jupyter.org/ 
 
+file:///C:/Second%20sem%20Uiuc/Programming_analytics/Final/Final_Analysis/Social_distancing_Covid19.html
+
 
