@@ -34,3 +34,6 @@ Note : As a lot of interactive plots have been used in the notebook , github onl
 
 https://nbviewer.jupyter.org/ 
 
+Please see the final analysis folder to view all the results and observations : Social_distacning_staticplots.ipynb 
+
+All the function used are present in the final analysis folder : Monte_carlo.py
