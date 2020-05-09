@@ -34,4 +34,3 @@ Note : As a lot of interactive plots have been used in the notebook , github onl
 
 https://nbviewer.jupyter.org/ 
 
-
