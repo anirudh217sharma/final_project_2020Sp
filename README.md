@@ -23,8 +23,15 @@ The age across the population comes from a normal distribution and the number of
 
 References : 
 
-https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
-https://towardsdatascience.com/covid-19-social-distancing-simulation-f091a58732f9
-https://github.com/o0oBluePhoenixo0o/COVID_19-Social-Dist-Simulation
+https://theconversation.com/coronavirus-why-should-we-stay-1-5-metres-away-from-each-other-134029
+
+https://www.samhealth.org/about-samaritan/news-search/2020/03/20/social-distancing
+
+https://www.contagionlive.com/news/coronavirus-incubation-period-is-about-5-days-study-estimates
+https://www.worldometers.info/coronavirus/coronavirus-age-sex-demographics/
+
+Note : As a lot of interactive plots have been used in the notebook , github only displays the notebook as a static html page in order to view the notebook properl kindly download the final notebook - socail_distancing_covid19 or use this link : 
+
+https://nbviewer.jupyter.org/ 
 
 
